@@ -10,7 +10,7 @@ public class input {
 		int b = sc.nextInt();     
 
 		int sum = a +b;   
-		System.out.println("The sum of these numbers is" +  sum);
+		System.out.println("The sum of these numbers is " +  sum);
 		//System.out.println(sum);
 		//boolean b1 = sc.hasNextInt();
 		//System.out.println(b1);
